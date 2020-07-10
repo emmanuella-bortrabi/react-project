@@ -1,0 +1,31 @@
+.App{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  margin-top: 220px;
+  align-content: center;
+}
+
+body{
+  background-color: hotpink;
+}
+
+.text{
+  background-color: darkseagreen;
+}
+
+input{
+  width: 100%;
+  padding-top: 10px;
+  border-radius: 10px;
+  background-color: khaki;
+  color: black;
+}
+
+.list-of-users{
+  background-color: darkcyan;
+}
+
+.particulars{
+  height: 70px;
+}
